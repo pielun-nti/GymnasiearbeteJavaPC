@@ -1,0 +1,47 @@
+MD5 checksum på ursprungliga filen före skickad över nätet: 59b3fc9bca1701430e823057687d6eab
+
+TCP resultat:
+På samma lokala nätverk:
+Försök 1:
+tid att skicka 2504.0 ms
+Förlorat paket: Nej
+MD5 Checksum efter: 59b3fc9bca1701430e823057687d6eab
+Försök 2:
+tid att skicka 1398.0 ms
+Förlorat paket: Nej
+MD5 Checksum efter: 59b3fc9bca1701430e823057687d6eab
+Försök 3:
+tid att skicka 779.0 ms
+Förlorat paket: Nej
+MD5 Checksum efter: 59b3fc9bca1701430e823057687d6eab
+Försök 4:
+tid att skicka 924.0 ms
+Förlorat paket: Nej
+MD5 Checksum efter: 59b3fc9bca1701430e823057687d6eab
+Försök 5:
+tid att skicka 1029.0 ms
+Förlorat paket: Nej
+MD5 Checksum efter: 59b3fc9bca1701430e823057687d6eab
+Försök 6:
+tid att skicka 664.0 ms
+Förlorat paket: Nej
+MD5 Checksum efter: 59b3fc9bca1701430e823057687d6eab
+Försök 7:
+tid att skicka 1150.0ms
+Förlorat paket: Nej
+MD5 Checksum efter: 59b3fc9bca1701430e823057687d6eab
+Försök 8:
+tid att skicka 671.0 ms
+Förlorat paket: Nej
+MD5 Checksum efter: 59b3fc9bca1701430e823057687d6eab
+Försök 9:
+tid att skicka 788.0 ms
+Förlorat paket: Nej
+MD5 Checksum efter: 59b3fc9bca1701430e823057687d6eab
+Försök 10:
+tid att skicka 1011.0 ms
+Förlorat paket: Nej
+MD5 Checksum efter: 59b3fc9bca1701430e823057687d6eab
+
+TCP Hastighet på samma lokala nätverk medelvärde: 1091.8 milliseconds
+

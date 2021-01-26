@@ -1,0 +1,10 @@
+MD5 checksum på ursprungliga filen före skickad över nätet: 59b3fc9bca1701430e823057687d6eab
+
+TCP resultat:
+På samma lokala nätverk:
+Försök 1:
+Tid från skickad till mottagen och sparad: 2097.0 ms
+Förlorat paket: Nej
+MD5 Checksum efter: 59b3fc9bca1701430e823057687d6eab
+
+TCP Hastighet på samma lokala nätverk medelvärde:  milliseconds
